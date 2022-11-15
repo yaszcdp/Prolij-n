@@ -1,0 +1,322 @@
+# depslib dependency file v1.0
+1668523165 source:c:\users\fede\documents\programaci”n\tp final\main.c
+	"comunes.h"
+	"caja.h"
+
+1656059916 source:c:\users\usuario\dropbox\utn\programaci”n\1- primer cuatri\programaciÛn y laboratorio i\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1656051966 source:d:\datos daniel\desktop\utn\programaci”n\2- primer cuatri\programaciÛn y laboratorio i\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1656325874 source:c:\users\fede\desktop\prolijin 1.1\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1666600814 source:c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\comunes.c
+	"comunes.h"
+
+1666600913 c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\comunes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1666452671 c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1666601552 c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1666464212 c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1666600937 source:c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\clientes.c
+	"clientes.h"
+
+1666601404 source:c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\productos.c
+	"productos.h"
+
+1666464726 source:c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\main.c
+	"comunes.h"
+	"clientes.h"
+	"pedidos.h"
+	"productos.h"
+
+1666460285 source:c:\users\fede\documents\programaci”n\prolijin 2.0\tp final\pedidos.c
+	"pedidos.h"
+	"clientes.h"
+	"productos.h"
+
+1668513987 source:c:\users\fede\documents\programaci”n\tp final\clientes.c
+	"clientes.h"
+
+1668504394 c:\users\fede\documents\programaci”n\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668504381 source:c:\users\fede\documents\programaci”n\tp final\comunes.c
+	"comunes.h"
+
+1668504369 c:\users\fede\documents\programaci”n\tp final\comunes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668473770 c:\users\fede\documents\programaci”n\tp final\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"clientes.h"
+	"productos.h"
+
+1668504464 c:\users\fede\documents\programaci”n\tp final\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668513019 source:c:\users\fede\documents\programaci”n\tp final\pedidos.c
+	"pedidos.h"
+
+1668503208 source:c:\users\fede\documents\programaci”n\tp final\productos.c
+	"productos.h"
+
+1668522850 c:\users\fede\documents\programaci”n\tp final\proveedores.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"pedidos.h"
+
+1668523229 source:c:\users\fede\documents\programaci”n\tp final\proveedores.c
+	"proveedores.h"
+
+1668504488 c:\users\fede\documents\programaci”n\tp final\caja.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"proveedores.h"
+
+1668418576 source:d:\datos daniel\downloads\tp final\clientes.c
+	"clientes.h"
+
+1668418601 d:\datos daniel\downloads\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668487252 source:d:\datos daniel\downloads\tp final\comunes.c
+	"comunes.h"
+
+1668455095 d:\datos daniel\downloads\tp final\comunes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668502450 source:d:\datos daniel\downloads\tp final\main.c
+	"comunes.h"
+	"caja.h"
+
+1668418393 d:\datos daniel\downloads\tp final\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668496562 d:\datos daniel\downloads\tp final\caja.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"proveedores.h"
+
+1668496737 d:\datos daniel\downloads\tp final\proveedores.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"pedidos.h"
+
+1668473770 d:\datos daniel\downloads\tp final\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"clientes.h"
+	"productos.h"
+
+1668418502 source:d:\datos daniel\downloads\tp final\productos.c
+	"productos.h"
+
+1668501693 source:d:\datos daniel\downloads\tp final\proveedores.c
+	"proveedores.h"
+
+1668496585 source:d:\datos daniel\downloads\tp final\caja.c
+	"caja.h"
+
+1668475713 source:d:\datos daniel\downloads\tp final\pedidos.c
+	"pedidos.h"
+
+1668510378 source:c:\users\fede\documents\programaci”n\tp final\caja.c
+	"caja.h"
+
+1668530714 source:d:\datos daniel\downloads\prolijin 2.0\tp final\caja.c
+	"caja.h"
+
+1668504488 d:\datos daniel\downloads\prolijin 2.0\tp final\caja.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"proveedores.h"
+
+1668522850 d:\datos daniel\downloads\prolijin 2.0\tp final\proveedores.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"pedidos.h"
+
+1668473770 d:\datos daniel\downloads\prolijin 2.0\tp final\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"clientes.h"
+	"productos.h"
+
+1668504394 d:\datos daniel\downloads\prolijin 2.0\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668504464 d:\datos daniel\downloads\prolijin 2.0\tp final\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668528855 source:d:\datos daniel\downloads\prolijin 2.0\tp final\clientes.c
+	"clientes.h"
+
+1668504381 source:d:\datos daniel\downloads\prolijin 2.0\tp final\comunes.c
+	"comunes.h"
+
+1668504369 d:\datos daniel\downloads\prolijin 2.0\tp final\comunes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1668529739 source:d:\datos daniel\downloads\prolijin 2.0\tp final\main.c
+	"comunes.h"
+	"caja.h"
+
+1668528160 source:d:\datos daniel\downloads\prolijin 2.0\tp final\pedidos.c
+	"pedidos.h"
+
+1668529040 source:d:\datos daniel\downloads\prolijin 2.0\tp final\productos.c
+	"productos.h"
+
+1668529285 source:d:\datos daniel\downloads\prolijin 2.0\tp final\proveedores.c
+	"proveedores.h"
+

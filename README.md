@@ -77,10 +77,16 @@ Otras estructuras como Domicilio, productoPedido, CompraVenta, celdaCaja, Acumul
 El proyecto está configurado para compilarse y ejecutarse fácilmente utilizando un entorno de desarrollo compatible con C, como Code::Blocks. Sigue las siguientes instrucciones para clonar y ejecutar el sistema en tu entorno local.
 
 1. Clona el repositorio del proyecto: `git clone https://github.com/tu-usuario/Prolij-n.git`
-2. Abre el proyecto en tu entorno de desarrollo preferido, como <img src="https://img.shields.io/badge/Code::Blocks-red" alt="Code::Blocks"/>.
+2. Abre el proyecto en tu entorno de desarrollo preferido, como <img src="https://img.shields.io/badge/Code::Blocks-red" alt="Code::Blocks - IDE"/>.
 3. Ejecuta el compilador, click en el botón "Run and build" para iniciar el sistema.
 
+## Contribuciones
 
+Este proyecto es un trabajo colaborativo realizado por los integrantes mencionados anteriormente. Si deseas contribuir, por favor sigue estos pasos:
+
+1. Crea un fork del proyecto en tu cuenta de GitHub.
+2. Realiza tus cambios y mejoras en una rama separada.
+3. Envía una solicitud de extracción (pull request) para revisar tus cambios.
 
 
 

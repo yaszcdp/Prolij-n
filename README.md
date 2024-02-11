@@ -42,7 +42,11 @@ Prolijín es un proyecto de sistema para administración de empresas realizado e
 *A la izquierda se muestra el listado de proveedores, su estados y los montos de sus cuentas, seguido del menú de Transacciones y el paso a paso para ingresar un pago al proveedor. A la izquierda el resultado almacenado automáticamente en las lista de proveedores y caja del día.*
 
 
+## Configuración del proyecto
 
+1. Clona el repositorio del proyecto: `git clone https://github.com/tu-usuario/Prolij-n.git`
+2. Abre el proyecto en tu entorno de desarrollo preferido, como <img src="https://img.shields.io/badge/Code%20Blocks-red" alt="Code::Blocks"/>.
+3. Ejecuta el compilador, click en el botón "Run and build" para iniciar el sistema.
 
 
 
